@@ -16,7 +16,7 @@ El objetivo de Spain Travels es ofrecer una plataforma confiable y fácil de usa
 
 ### El front-end consistirá en :
 
-- Javascript (con React NextJS)
+- TypeScript (con React NextJS)
 - HTML
 - CSS
 
